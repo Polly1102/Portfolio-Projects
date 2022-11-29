@@ -114,4 +114,3 @@ WHERE dea.continent is not null
 
 
 Select * From PercentPopulationVaccinated
---End of Code
